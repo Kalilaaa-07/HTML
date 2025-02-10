@@ -1,0 +1,14 @@
+h2 {
+    background-color: gray;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+div {
+    width: 80%;
+    margin: 0 auto;
+    height: 100px;
+}
+.bg{
+    background-image: url(assets/Images/pelecehan.jpg);
+}
